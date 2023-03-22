@@ -1,4 +1,4 @@
-package edu.uqu.cs;
+gpackage edu.uqu.cs;
 import java.util.Scanner;
 
 /*
